@@ -3,6 +3,7 @@ My data portfolio for data analyst role
 
 ## I WANT TO BE A DATA ANALYST
 
+These are what I lave learnt from bootcamps-8
 - Intro to data science
 - Spreadsheets
 - Database (SQL)
@@ -12,3 +13,4 @@ My data portfolio for data analyst role
 - Essential Machine Learning for Data Analyst
 - Python Programming
 - Dashboard
+
